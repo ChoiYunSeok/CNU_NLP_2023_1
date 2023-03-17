@@ -10,4 +10,4 @@
 #### 2번 GPU : 김가연 (gyeon09)
 #### 3번 GPU : 문상준
 #### 4번 GPU : 임형찬 (chan4im)
-#### 5번 GPU : 최다솜 (choidasom)
+#### 5번 GPU : 최다솜 (somcandy)
